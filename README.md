@@ -2,7 +2,7 @@
 
 Build Instruction:
 
-go get\n
+go get<br>
 go build
 
 Prerequisite
